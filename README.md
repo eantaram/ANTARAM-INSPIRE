@@ -1,3 +1,4 @@
+![ANTARAM INSPIRE](https://raw.githubusercontent.com/Antaram-Inspire/ANTARAM-INSPIRE/main/banner.png)
 # ANTARAM INSPIRE 🌿
 
 **Пространство вдохновения, развития и раскрытия гениальности человека.**
